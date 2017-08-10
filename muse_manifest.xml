@@ -1,0 +1,50 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="11assassins33.github.io" resolutions="1x" timestamp="1502349310511">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="169375985" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="наброски-u7213-fr.png" crc="4248317445" ref="index"/>
+    <file name="3.png" crc="3944767490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7802-4.png" crc="43347320" ref="index"/>
+    <file name="1.jpg" crc="234983349" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u7810.png" crc="4204224072" ref="index"/>
+    <file name="u7810-r.png" crc="324548862" ref="index"/>
+    <file name="наброски.jpg" crc="236690198" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4209263251" ref="phone>index"/>
+      <file name="youtube-m.css" crc="493041404" ref="phone>youtube-m"/>
+      <file name="logo-m.css" crc="493041404" ref="phone>logo-m"/>
+      <file name="twitch-m.css" crc="493041404" ref="phone>twitch-m"/>
+      <file name="vk-m.css" crc="493041404" ref="phone>vk-m"/>
+    </folder>
+    <file name="index.html" crc="4202883025" seo="true" mt="1496292908876" redirect="false"/>
+    <file name="logo-m.html" crc="4201988616" seo="true" mt="1497170234711" redirect="false"/>
+    <file name="vk-m.html" crc="522683208" seo="true" mt="1497170234711" redirect="false"/>
+    <file name="twitch-m.html" crc="3784021021" seo="true" mt="1497170234712" redirect="false"/>
+    <file name="youtube-m.html" crc="350803622" seo="true" mt="1497170234712" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3830215731" seo="true" mt="1502349244944" redirect="true"/>
+</manifest>

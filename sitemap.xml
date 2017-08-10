@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://11assassins33.github.io/index.html</loc>
+    <lastmod>2017-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://11assassins33.github.io/images/3.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://11assassins33.github.io/phone/vk-m.html</loc>
+    <lastmod>2017-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://11assassins33.github.io/phone/logo-m.html</loc>
+    <lastmod>2017-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://11assassins33.github.io/phone/youtube-m.html</loc>
+    <lastmod>2017-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://11assassins33.github.io/phone/twitch-m.html</loc>
+    <lastmod>2017-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
